@@ -62,7 +62,7 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "rx",
+            "algo": null,
             "coin": null,
             "url": "rx.unmineable.com:3333",
             "user": "LTC:ML2cJMFZKrfeVnZPQkoHHEuavt5u14sZfP.mining#mbgb-nn1p",
