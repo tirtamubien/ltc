@@ -43,7 +43,7 @@
     },
     "opencl": {
         "enabled": true,
-        "cache": true,
+        "cache": false,
         "loader": null,
         "platform": "AMD",
         "adl": true,
